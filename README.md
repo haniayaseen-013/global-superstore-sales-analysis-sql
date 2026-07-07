@@ -84,11 +84,12 @@ This project answers business questions such as:
 
 ### Top 10 Most Profitable Products
 
-*(Screenshot will be added after uploading to GitHub.)*
+
+![Top 10 Most Profitable Products](day17_setup_1.png)
 
 ### Products with Sales Greater Than $5000
 
-*(Screenshot will be added after uploading to GitHub.)*
+![Products with Sales Greater Than $5000](day17_setup_2.png)
 ---
 ## 📈 Key Skills Demonstrated
 
