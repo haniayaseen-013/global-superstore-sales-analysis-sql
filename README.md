@@ -80,17 +80,6 @@ This project answers business questions such as:
 - Which are the top 10 most profitable products?
 
 ---
-## 📷 Project Preview
-
-### Top 10 Most Profitable Products
-
-
-![Top 10 Most Profitable Products](day17_setup_1.png)
-
-### Products with Sales Greater Than $5000
-
-![Products with Sales Greater Than $5000](day17_setup_2.png)
----
 ## 📈 Key Skills Demonstrated
 
 - Business problem solving using SQL
