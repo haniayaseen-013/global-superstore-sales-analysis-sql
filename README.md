@@ -48,18 +48,20 @@ The dataset contains over **51,000 sales records** from a global retail business
 
 ## 💡 SQL Concepts Used
 
-- SELECT
-- COUNT()
+- SELECT, WHERE, ORDER BY
+- AGGREGATE FUNCTIONS (SUM, AVG, COUNT, MAX, MIN)
 - DISTINCT
-- SUM()
-- AVG()
 - ROUND()
 - GROUP BY
-- ORDER BY
 - LIMIT
 - HAVING
-- Aggregate Functions
-
+- Common Table Expressions (CTEs)
+- Subqueries
+- ROW_NUMBER()
+- RANK(), DENSE_RANK()
+- PARTITION BY
+- Combining CTEs with Window Functions
+- LAG() and LEAD()
 ---
 
 ## 📊 Business Questions Answered
